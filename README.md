@@ -11,4 +11,6 @@ At the beginning, I have no idea how to organized the rules effectively,
 then I tried several data structures like set, map, list, tree, finally decide this data structure to store.
 The reason is that, there might be many ranges for a single port, so it's better take it into consideration instead of viewing them as individual string.
 
+ ## Team
  
+ I am interested with Platform and Data team, I prefer Data team, but I won't limit myself to particular one, thanks.
